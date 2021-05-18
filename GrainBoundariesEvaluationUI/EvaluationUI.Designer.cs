@@ -48,9 +48,9 @@ namespace GrainBoundariesEvaluationUI
             this.label6.ForeColor = System.Drawing.Color.Navy;
             this.label6.Location = new System.Drawing.Point(40, 53);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(133, 25);
+            this.label6.Size = new System.Drawing.Size(156, 25);
             this.label6.TabIndex = 13;
-            this.label6.Text = "Available Data";
+            this.label6.Text = "Specimen quality";
             // 
             // viewBtn
             // 

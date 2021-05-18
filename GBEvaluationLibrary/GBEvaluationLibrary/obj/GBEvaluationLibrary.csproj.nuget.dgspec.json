@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#projects\\7_Grain_boundaries_Evaluation\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj": {}
+    "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj": {}
   },
   "projects": {
-    "D:\\C#projects\\7_Grain_boundaries_Evaluation\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj": {
+    "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#projects\\7_Grain_boundaries_Evaluation\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj",
         "projectName": "GBEvaluationLibrary",
-        "projectPath": "D:\\C#projects\\7_Grain_boundaries_Evaluation\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj",
+        "projectPath": "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj",
         "packagesPath": "C:\\Users\\redhat\\.nuget\\packages\\",
-        "outputPath": "D:\\C#projects\\7_Grain_boundaries_Evaluation\\GBEvaluationLibrary\\GBEvaluationLibrary\\obj\\",
+        "outputPath": "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GBEvaluationLibrary\\GBEvaluationLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
