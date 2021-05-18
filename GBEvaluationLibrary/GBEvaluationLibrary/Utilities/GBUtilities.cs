@@ -12,7 +12,7 @@ namespace GBEvaluationLibrary.Utalities
         /// </summary>
         /// <param name="availableSpecimens"></param>
         /// <returns></returns>
-        public static List<SpecimenModel> FindSuitableGrainBoundary(List<SpecimenModel> availableSpecimens)
+        public static List<SpecimenModel> ComputeSuitableGrainBoundary(List<SpecimenModel> availableSpecimens)
         {
             List<SpecimenModel> SortedList = availableSpecimens.OrderByDescending(i => (i.GBEnergy * i.SolidificationFactor) / (i.ThermalFactor)).ToList();
             return SortedList;
@@ -26,7 +26,7 @@ namespace GBEvaluationLibrary.Utalities
     //    /// </summary>
     //    /// <param name="availableSpecimens"></param>
     //    /// <returns></returns>
-    //    //public static List<SpecimenModel> FindSuitableGrainBoundary(List<SpecimenModel> availableSpecimens)
+    //    //public static List<SpecimenModel> ComputeSuitableGrainBoundary(List<SpecimenModel> availableSpecimens)
     //    //{
 
     //    //}

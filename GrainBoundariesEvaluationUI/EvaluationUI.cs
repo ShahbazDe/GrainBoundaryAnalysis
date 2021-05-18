@@ -54,7 +54,7 @@ namespace GrainBoundariesEvaluationUI
             }
 
             listViewAllSpecimens.Items.Clear();
-            foreach (SpecimenModel i in Utilities.FindSuitableGrainBoundary(availableSpecimens))
+            foreach (SpecimenModel i in Utilities.ComputeSuitableGrainBoundary(availableSpecimens))
             {
                 var eachRecord = new string[] {
                     i.UserName,
