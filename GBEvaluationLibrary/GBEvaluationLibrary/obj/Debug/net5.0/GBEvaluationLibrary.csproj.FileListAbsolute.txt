@@ -1,0 +1,36 @@
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.deps.json
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.dll
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\ref\GBEvaluationLibrary.dll
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.pdb
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.csprojAssemblyReference.cache
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.AssemblyInfoInputs.cache
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.AssemblyInfo.cs
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.csproj.CoreCompileInputs.cache
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.dll
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\ref\GBEvaluationLibrary.dll
+D:\C#projects\6_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.pdb
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.deps.json
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.dll
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\ref\GBEvaluationLibrary.dll
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.pdb
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.csprojAssemblyReference.cache
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.AssemblyInfoInputs.cache
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.AssemblyInfo.cs
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.csproj.CoreCompileInputs.cache
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.dll
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\ref\GBEvaluationLibrary.dll
+D:\C#projects\6_Grain_boundaries_Evaluation - Copy\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.pdb
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.deps.json
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.dll
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\ref\GBEvaluationLibrary.dll
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.pdb
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.AssemblyInfoInputs.cache
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.AssemblyInfo.cs
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.csproj.CoreCompileInputs.cache
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.dll
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\ref\GBEvaluationLibrary.dll
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.pdb
+D:\C#projects\7_Grain_boundaries_Evaluation\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.csprojAssemblyReference.cache
