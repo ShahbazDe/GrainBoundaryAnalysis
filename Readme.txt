@@ -7,3 +7,7 @@ the list competes with other specimens according to this formula and must be use
 
 Data entry must be with a valid numerical range. Please follow the instructions accordingly. 
 If the package is moved to another system, ensure that the database file path is adjusted correctly.
+
+User instructions:
+1. Set project as defualt(not the library) in order to compile.
+2. Set path of Data folder in app.config file.
