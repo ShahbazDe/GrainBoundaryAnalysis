@@ -43,7 +43,9 @@ namespace GrainBoundariesEvaluationUI
         private void PrintAllRecord()
         {
             List<SpecimenModel> availableSpecimens = new List<SpecimenModel>();
-            if (!File.Exists(TextConnector.SampleFileName.GetFullFilePath()))
+           // if (!File.Exists(TextConnector.SampleFileName.FullFilePathFromConfigFile()))
+            if (!File.Exists(TextConnector.SampleFileName.PortableFilePathByRuntimeDirectory()))
+                    
             {
                 MessageBox.Show("cvs file can not be found. Set the path in App.config file, recompile and try again");
                 System.Environment.Exit(1);

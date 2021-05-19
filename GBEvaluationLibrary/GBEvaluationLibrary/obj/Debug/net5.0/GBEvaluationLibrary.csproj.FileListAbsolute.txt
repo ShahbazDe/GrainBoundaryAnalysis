@@ -46,3 +46,15 @@ C:\Users\redhat\Documents\GitHub\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEva
 C:\Users\redhat\Documents\GitHub\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.dll
 C:\Users\redhat\Documents\GitHub\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\ref\GBEvaluationLibrary.dll
 C:\Users\redhat\Documents\GitHub\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.pdb
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.deps.json
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.dll
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\ref\GBEvaluationLibrary.dll
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\bin\Debug\net5.0\GBEvaluationLibrary.pdb
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.csprojAssemblyReference.cache
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.AssemblyInfoInputs.cache
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.AssemblyInfo.cs
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.csproj.CoreCompileInputs.cache
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.dll
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\ref\GBEvaluationLibrary.dll
+D:\C#projects\GrainBoundaryAnalysis\GBEvaluationLibrary\GBEvaluationLibrary\obj\Debug\net5.0\GBEvaluationLibrary.pdb

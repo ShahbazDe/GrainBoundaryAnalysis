@@ -18,7 +18,8 @@ namespace GBEvaluationLibrary.DataAccess
         {
             //*loading the data from existing file     IN TEXTCONNECTIONPROCESSOR
             //*Converting to appropriate dataTypes
-            List<SpecimenModel> samples = SampleFileName.GetFullFilePath().Loadfile().TextRecordToObjectProperties();
+            //List<SpecimenModel> samples = SampleFileName.FullFilePathFromConfigFile().Loadfile().TextRecordToObjectProperties();
+            List<SpecimenModel> samples = SampleFileName.PortableFilePathByRuntimeDirectory().Loadfile().TextRecordToObjectProperties();
             // Finding maximum data length and Last stored ID
             int currentId = 1;
 
@@ -40,7 +41,8 @@ namespace GBEvaluationLibrary.DataAccess
         /// <returns></returns>
         public List<SpecimenModel> GetSubmittedData()
         {
-            List<SpecimenModel> samples = SampleFileName.GetFullFilePath().Loadfile().TextRecordToObjectProperties();
+            //List<SpecimenModel> samples = SampleFileName.FullFilePathFromConfigFile().Loadfile().TextRecordToObjectProperties();
+            List<SpecimenModel> samples = SampleFileName.PortableFilePathByRuntimeDirectory().Loadfile().TextRecordToObjectProperties();
             return samples;
         }
     }

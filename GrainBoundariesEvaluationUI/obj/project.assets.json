@@ -524,11 +524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GrainBoundariesEvaluationUI\\GrainBoundariesEvaluationUI.csproj",
+      "projectUniqueName": "D:\\C#projects\\GrainBoundaryAnalysis\\GrainBoundariesEvaluationUI\\GrainBoundariesEvaluationUI.csproj",
       "projectName": "GrainBoundariesEvaluationUI",
-      "projectPath": "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GrainBoundariesEvaluationUI\\GrainBoundariesEvaluationUI.csproj",
+      "projectPath": "D:\\C#projects\\GrainBoundaryAnalysis\\GrainBoundariesEvaluationUI\\GrainBoundariesEvaluationUI.csproj",
       "packagesPath": "C:\\Users\\redhat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GrainBoundariesEvaluationUI\\obj\\",
+      "outputPath": "D:\\C#projects\\GrainBoundaryAnalysis\\GrainBoundariesEvaluationUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -549,8 +549,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj": {
-              "projectPath": "C:\\Users\\redhat\\Documents\\GitHub\\GrainBoundaryAnalysis\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj"
+            "D:\\C#projects\\GrainBoundaryAnalysis\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj": {
+              "projectPath": "D:\\C#projects\\GrainBoundaryAnalysis\\GBEvaluationLibrary\\GBEvaluationLibrary\\GBEvaluationLibrary.csproj"
             }
           }
         }
