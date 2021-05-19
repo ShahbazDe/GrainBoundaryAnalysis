@@ -6,16 +6,21 @@ using System.Data;
 using Dapper;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Linq;
 
 namespace GBEvaluationLibrary.DataAccess
 {
     public class SqlConnector : IDataConnection
-    {   //TODO implemet sql database submission section
+    {   /// <summary>
+    /// Using Dapper, Data is stored into database
+    /// </summary>
+    /// <param name="model"></param>
+    /// <returns></returns>
         public SpecimenModel CreateSampleSubmission(SpecimenModel model)
         {
             try
-            {                                       //download sqlcleint   
-                using (IDbConnection connection = new System.Data.SqlClient.SqlConnection(GlobalConfig.GetConnectionString("GBAnalysisDB")))  //https://youtu.be/wfWxdh-_k_4?t=21866 explaining this line
+            {                                       //download sqlcleint                                                   //database name
+                using (IDbConnection connection = new System.Data.SqlClient.SqlConnection(GlobalConfig.GetConnectionString("GBAnalysisDB")))  
                 {
                     var val = new DynamicParameters();
                     val.Add("@UserId", model.UserId);
@@ -26,7 +31,7 @@ namespace GBEvaluationLibrary.DataAccess
                     val.Add("@ThermalFactor", model.ThermalFactor);
                     val.Add("@id", 0, dbType: DbType.Int32, ParameterDirection.Output);
 
-                    connection.Execute("dbo.spSpecimens_Insert", val, commandType: CommandType.StoredProcedure);
+                    connection.Execute("dbo.spSpecimens_Insert", val, commandType: CommandType.StoredProcedure);//store procedure=dbo.spSpecimens_Insert
 
                     model.Id = val.Get<int>("@id");
                     return model;
@@ -42,11 +47,20 @@ namespace GBEvaluationLibrary.DataAccess
 
 
         }
-        //TODO implement how to read al the available data from sql database
+        /// <summary>
+        /// using store procedure 
+        /// </summary>
+        /// <returns></returns>
+   
         public List<SpecimenModel> GetSubmittedData()
         {
             List<SpecimenModel> availableSpecimens = new List<SpecimenModel>();
-            return availableSpecimens;
+
+            using (IDbConnection connection = new System.Data.SqlClient.SqlConnection(GlobalConfig.GetConnectionString("GBAnalysisDB")))  
+            {
+                availableSpecimens = connection.Query<SpecimenModel>("dbo.spSpecimens_GetALLData").ToList();
+            }
+                return availableSpecimens;
         }
     }
 }
