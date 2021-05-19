@@ -65,7 +65,7 @@ namespace GrainBoundariesEvaluationUI
             if (auserIDValid == false || auserID < 1 || userID.Text.Length < DataValidity.userIDlength)
             {
                 output = false;
-                errorProviderUserID.SetError(userID, "user iD must be more than 4 digits");
+                errorProviderUserID.SetError(userID, "user iD must be atleast 4 digits");
             }
 
 
@@ -95,6 +95,15 @@ namespace GrainBoundariesEvaluationUI
 
             return output;
 
+        }
+
+        private void BtnHelp_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Grain boundary energy calculation must follow some Rules.\n\n" +
+                            "  1.  User ID must be 4 digits. i.e:  1234\n" +
+                            "  2.  Grain boundary energy should be lesser than zero. i.e:  -0.001\n" +
+                            "  3.  Solidification factor should be in a range of 0-1. i.e:  0.5\n" +
+                            "  4.  Thermal gradient must be higher than zero. i.e:  150");
         }
     }
 }

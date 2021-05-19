@@ -15,7 +15,7 @@ namespace GrainBoundariesEvaluationUI
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            GBEvaluationLibrary.GlobalConfig.InitializeConnections(DatabaseType.Sql);//DatabaseType.TextFile
+            GBEvaluationLibrary.GlobalConfig.InitializeConnections(DatabaseType.TextFile);//DatabaseType.Sql
             Application.Run(new EvaluationUI());
 
 
