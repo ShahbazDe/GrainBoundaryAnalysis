@@ -19,7 +19,7 @@ namespace GBEvaluationLibrary.DataAccess
         public SpecimenModel CreateSampleSubmission(SpecimenModel model)
         {
             try
-            {                                       //download sqlcleint                                                   //database name
+            {                                       //download sqlcleint     //getting database name
                 using (IDbConnection connection = new System.Data.SqlClient.SqlConnection(GlobalConfig.GetConnectionString("GBAnalysisDB")))  
                 {
                     var val = new DynamicParameters();

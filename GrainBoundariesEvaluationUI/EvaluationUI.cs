@@ -56,15 +56,15 @@ namespace GrainBoundariesEvaluationUI
             }
 
             listViewAllSpecimens.Items.Clear();
-            foreach (SpecimenModel i in Utilities.ComputeSuitableGrainBoundary(availableSpecimens))
+            foreach (SpecimenModel index in Utilities.ComputeSuitableGrainBoundary(availableSpecimens))
             {
                 var eachRecord = new string[] {
-                    i.UserName,
-                    i.GBLabel,
-                    i.GBEnergy.ToString(),
-                    i.SolidificationFactor.ToString(),
-                    i.ThermalFactor.ToString(),
-                    i.UserId.ToString() };
+                    index.UserName,
+                    index.GBLabel,
+                    index.GBEnergy.ToString(),
+                    index.SolidificationFactor.ToString(),
+                    index.ThermalFactor.ToString(),
+                    index.UserId.ToString() };
                 var eachRecordListitem = new ListViewItem(eachRecord);
                 listViewAllSpecimens.Items.Add(eachRecordListitem);
                 //Highlight most suitable specimen
